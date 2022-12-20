@@ -1,14 +1,5 @@
-# This is a repository for exploring all-round human body optimization.
+# Human Body Optimization
 
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
+```
+Optimize our body is always a hot topic, and we definitely believe that human body can be optimized by scientific and systematic nursing. And this is a projuect for better our body and improve our life quality. Hope everyone can lives to be 150! 
+```

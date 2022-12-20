@@ -1,11 +1,12 @@
 # Diet
 
 **Less is more.**
+- Eat less.
 - Less carbon. 
 - Less Deeply processed food.
 
 **Careful with more.**
-- More vegetable.
+- More vegetable, all kinds of vegetables.
 - More water, milk, tea, coffee, all kinds of sugar-free drinks.
 
 **Fasting**
