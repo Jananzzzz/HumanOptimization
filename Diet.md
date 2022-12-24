@@ -1,4 +1,4 @@
-# Diet
+# Diet Is Input
 
 **Less is more.**
 - Eat less.
