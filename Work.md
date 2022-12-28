@@ -1,6 +1,7 @@
 # Work Is Art
 
 ## Think Twice 
+**Before start your work, always think twice.**
 
 ## Concentration
 Most People can only keep their focus for less than ten minutes when working on boring or uninteresing jobs. We can extend our focus time by exercising foucus or making work interesting.
