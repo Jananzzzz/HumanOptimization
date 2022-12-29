@@ -1,7 +1,21 @@
 # Work Is Art
 
 ## Think Twice 
-**Before start your work, always think twice.**
+- **Understand your work.** 
+
+    Before start your work, you should first know what you really need to do. The more you understand your work, the better you will do it.
+    
+    To better understand your work, think about:
+    - **Why you need to do this work?** (goals, importance, urgency) From my personal experience, many jobs are useless, just on the spur of the moment. And if you don't understand the importance or urgency of your work, the energy you throw into maybe inproportional to the importance of the work. 
+    - **What are you going to complete?** (what are the tasks in this work, what will you get from the work, what is the final result)
+    - **Steps to complete your work.** (figure out what method, knowledge base, technology stack you need, the basic route map)
+
+- **Make a plan and Evaluation**
+    
+    After understanding your work, you can make a plan with evaluation:
+    - Draw a architecture diagram of your work, on the paper, Xmind, or just in your mind.
+    - Make evaluation of the difficulty, the breadth of knowledge and time required of your work.(It can be accurate to every step.)
+    - Formulate a reasonable plan and schedule.
 
 ## Concentration
 Most People can only keep their focus for less than ten minutes when working on boring or uninteresing jobs. We can extend our focus time by exercising foucus or making work interesting.
@@ -20,3 +34,6 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 - Interest is the trump card to stay focused
 - Understand the structure of your work, then start doing
 
+## Log system
+
+## Database system
