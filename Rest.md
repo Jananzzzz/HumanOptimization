@@ -21,6 +21,12 @@ The window of sleeping is roughly between 8 PM and 12 AM, during which our brain
 Our sleep time is not fixed. For example, if you worked too hard the day before, you may need more sleep.
 So, to full charge our body by sleeping, don't let alarm interrupt your sleep. Remember that rest is the most important thing!
 
+### Can't fall asleep?
+Here are some points you can do:
+- Sleep at a fixed time (as said before)
+- Don't do anything in bed except sleep, especially don't use your cell phone lying down. (It will make your brain think that the bed is not a place for sleep.)
+- Play a podcast (set a time sleeper) at bedside when you sleep. (Extremely useful!)
+
 ### For programmers*
 
 As we all know, programmers are all night owls &#128514;.If you are a programmer like me, there are still something to say.
@@ -55,5 +61,14 @@ How to take a nap? Here are some point:
 - **Create a restful environment.** Nap in a quiet, dark place with a commfortable room and temperature and few distractions. If your nap is interrupted, it may affect your mood and the next work.
 - **Take naps early in the day.** As said before, if you don't too much work at night, I recommand take a nap at noon, no later than 3 pm. Otherwise, it may affect your night sleep.
 - **Keep naps short.** Aim to nap for only 10 to 30 minutes. The longer you nap, the more likely you are to feel groggy afterward. A nap of more than an hour is likey to affect your sleep at night.
+
+## Body and mind
+Obviously, we should look at the rest of body and brain separately. When we sleep, we rest them both. 
+
+But what if your body is tired but your brain is still highly active? Should we go to bed in under this circumstance?
+
+My advice is if you feel tired (for example after a long run) but your mind is active, and it's not normal sleep time, then don't try to sleep. You can just sit or lie on the sofa, eat something, listen to music, just do something relaxing. If you let yourself sleep at this time, it is likely to disrupt your normal sleep rhythm.
+
+In fact, in most cases, the degree of fatigue of the brain and body is different. To better our sleep, brain workers can do some exercise between jobs, and manual worker can read some books before sleep, etc.
 
 

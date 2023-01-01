@@ -15,7 +15,7 @@
 ## Rest
 Rest is undoubtedly the most important part of our physical activity. (And in my opinion it is also the most amazing activity of human beings. In fact, we almost know nothing about sleep.) We one third of our life time for sleep.
 
-Rest includes night sleep, lunch break, a nap between work or any kind of method to relax your body and brain. And the relaxation of body and brain are obvious two different things...
+Rest includes night sleep, lunch break, a nap between work or any kind of method to relax your body and brain. And the rest of body and brain are obvious two different things...
 
 [Explore now &#8594;](Rest.md)
 
@@ -42,8 +42,8 @@ Also borrowed a lot of ideas from Andrew Huberman's and Lex Fridman's podcast:
 - [Lex Fridman's Podcast](https://www.youtube.com/watch?v=0m3hGZvD-0s&ab_channel=LexFridman)
 
 ## More
-Huamn body is an magical and mysterious system, we still knonw little about it. We hope that more and more people can realize that human body is optimizable and participate in the exploration of human body.
+Human body is an magical and mysterious system, we still know little about it. We hope that more and more people can realize that human body is optimizable and participate in the exploration of human body.
 
-**We welcome contributions to this repo, you can write a .md file and submit a pull request.**
+**We welcome contributions to this repo, you can write or modify a .md file and submit a pull request.**
 
 For any question of any part of the repo, you can raise an issue or contact the contributors.  If you want a private discuss of something, just email me at bangzhubieren18@gmail.com.
