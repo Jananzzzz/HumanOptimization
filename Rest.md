@@ -9,4 +9,10 @@ Night sleep is the most important part of rest. Here are some poiont to discuss:
 - Sleep enough at one time, or sleep in multiple stages? 
 
 ### How long should we sleep?
-A 
+
+
+### Don't use a alarm
+
+## Nap
+For many people, nap is an indispensible part of daytime. If they do not gap during the work gap, they will feel tired and their concentration will decrease.
+
