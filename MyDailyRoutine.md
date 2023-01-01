@@ -22,7 +22,7 @@
 
 [^1]: Drinking A big glass of water, sunbathing.
 [^2]: Pomodoro Technique, check message during break.
-[^3]: Social, meditation, sunbating, walking. 
+[^3]: Social, meditation, napping, sunbating, walking. 
 [^4]: Check Email, video Course, random reading, etc.
 
 
