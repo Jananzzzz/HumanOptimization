@@ -69,6 +69,6 @@ But what if your body is tired but your brain is still highly active? Should we 
 
 My advice is if you feel tired (for example after a long run) but your mind is active, and it's not normal sleep time, then don't try to sleep. You can just sit or lie on the sofa, eat something, listen to music, just do something relaxing. If you let yourself sleep at this time, it is likely to disrupt your normal sleep rhythm.
 
-In fact, in most cases, the degree of fatigue of the brain and body is different. To better our sleep, brain workers can do some exercise between jobs, and manual worker can read some books before sleep, etc.
+In fact, in most cases, the degree of fatigue of the brain and body is different. To better our sleep, brain workers can do some exercise between jobs, stand while coding, and manual worker can read some books before sleep, etc.
 
 
