@@ -1,6 +1,6 @@
 # Exercise or not, that is a question
 
-Exercise is the most controversial part of human body optimization. Even if exercise is beneficial if full of controversial. All words in this part are paltry advice. Every should try to exercise to find their own way.
+Exercise is the most controversial part of human body optimization. Even whether exercise is beneficial if full of controversial. All words in this part are paltry advice. Every should try to exercise to find their own way.
 
 The following will start from my personal experience:
 
@@ -56,7 +56,7 @@ I know many people, especially brainer worker like my professor and teacher, who
 For those want to strengthen their body, have the will to keep exercise for life time, and have much time for exercising, I still have some advice for you, as an experienced person:
 - Keep exercising. Just keep it, without break. If it rains, you can exercise indoor. If you hurt your leg, you can exercise your arm. Persistence is the most important and also the most difficult part of exercising. 
 - Not exercising too much. Though there is no evidence that exercising can extend our life span, but it is known that exercising too much will accelerating our body aging, even hurt your body.
-- Exercising with a friend or good, if possible. Others company helps you go further.
+- Exercising with a friend or group, if possible. Others company helps you go further.
 - Buy some professional sports equipment if affordable. They will help you exercise more scientifically and effectively, and make you more confident.
 
 The benefits of exercise are very obvious:

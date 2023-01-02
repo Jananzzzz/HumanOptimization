@@ -2,7 +2,7 @@
 
 **ATTENTION:** Without special instructions, all articles in this repo are for adults.
 
-> Optimize our body is always a hot topic, and we definitely believe that human body can be optimized by scientific and systematic nursing. And this is a projuect for exploring ways to better our body and improve our life quality. Though there is no one-size-fit-all method, we will try our best. Hope everyone can lives to be 150! 
+> Optimize our body is always a hot topic, and we definitely believe that human body can be optimized by scientific and systematic nursing. And this is a project for exploring ways to better our body and improve our life quality. Though there is no one-size-fit-all method, we will try our best. Hope everyone can lives to 150! 
 
 **Let's begin.**
 

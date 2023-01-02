@@ -1,3 +1,0 @@
-# Habit & Mind
-
-## Meditation
