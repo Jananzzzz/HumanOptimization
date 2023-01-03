@@ -34,6 +34,8 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 - Interest is the trump card to stay focused
 - Understand the structure of your work, then start doing
 
+## No procrastination
+
 ## Log system
 
 ## Database system
