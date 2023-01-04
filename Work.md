@@ -34,8 +34,10 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 - Interest is the trump card to stay focused
 - Understand the structure of your work, then start doing
 
-## No procrastination
 
 ## Log system
-
 ## Database system
+
+## Tips & Techniques
+- **Prevent Procrastination.** The moment you get you job, you should *think twice*. Make plans for your job. Tasks that must be completed should be completed as soon as possible.
+- If something is not urgent but is likely to take a lot of time to complete, just put it aside. Later, you may find easy ways to deal with it, or just find it not important. 
