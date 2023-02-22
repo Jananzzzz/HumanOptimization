@@ -43,3 +43,4 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 - If something is not urgent but is likely to take a lot of time to complete, just put it aside. Later, you may find easy ways to deal with it, or just find it not important. 
 - **Talk less.** Talk much, err much. Talk less means think more and improve the information entropy of your speaking. Less nonsense and meaningless words. 
 - **Keep executive force.** When you encounter problems and have ideas, you should immediately try to do it. This can efficiently improve your execution and keep your inspiration from losing.
+- **Use your computer istead of phone.** Phone will waste your time.
