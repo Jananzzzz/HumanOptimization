@@ -1,6 +1,9 @@
 # Work Is Art
 
 ## Think Twice 
+
+> When you look back on a day's work, you may feel that there is little gain today. But you don't need to worry about it, because this is the status quo of most people: we have been busy for a long time, but with low efficiency. So, always spend some time on thinking your work, your plan, your idea. Thinking is more important than action. Most of our work are just wasting time.
+
 - **Understand your work.** 
 
     Before start your work, you should first know what you really need to do. The more you understand your work, the better you will do it.
@@ -16,6 +19,7 @@
     - Draw a architecture diagram of your work, on the paper, Xmind, or just in your mind.
     - Make evaluation of the difficulty, the breadth of knowledge and time required of your work.(It can be accurate to every step.)
     - Formulate a reasonable plan and schedule.
+
 
 ## Concentration
 Most People can only keep their focus for less than ten minutes when working on boring or uninteresing jobs. We can extend our focus time by exercising foucus or making work interesting.
