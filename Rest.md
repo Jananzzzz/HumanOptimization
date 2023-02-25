@@ -71,4 +71,9 @@ My advice is if you feel tired (for example after a long run) but your mind is a
 
 In fact, in most cases, the degree of fatigue of the brain and body is different. To better our sleep, brain workers can do some exercise between jobs, stand while coding, and manual worker can read some books before sleep, etc.
 
+## Outside
+Surroud yourself with nature for ample time, which will give your brain a quicker rest and potentially give you inspiration.
+
+Walking outside is the best way to think and rest your mind.
+
 
