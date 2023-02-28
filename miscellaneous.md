@@ -1,2 +1,3 @@
 ### Meditation
 ### Walking
+### Thinking
