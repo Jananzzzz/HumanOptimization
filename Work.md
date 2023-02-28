@@ -41,6 +41,8 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 
 ## Log system
 ## Database system
+## Learning 
+- Docs is better than videos. Watching videos is a passive way of obtaining knowledge, however, reading docs is on your active exploring.
 
 ## Tips & Techniques
 - **Prevent Procrastination.** The moment you get you job, you should *think twice*. Make plans for your job. Tasks that must be completed should be completed as soon as possible.
