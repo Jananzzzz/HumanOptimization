@@ -46,4 +46,4 @@ Human body is an magical and mysterious system, we still know little about it. W
 
 **We welcome contributions to this repo, you can write or modify a .md file and submit a pull request.**
 
-For any question of any part of the repo, you can raise an issue or contact the contributors.  If you want a private discuss of something, just email me at bangzhubieren18@gmail.com.
+For any question of any part of the repo, you can raise an issue or contact the contributors. If you want a private discuss of something, just email me at bangzhubieren18@gmail.com.
