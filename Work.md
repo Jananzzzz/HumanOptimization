@@ -39,6 +39,7 @@ For beginner, 25 minutes focus maybe too long, so we can satart with 10 minutes,
 - Understand the structure of your work, then start doing
 
 
+
 ## Log system
 ## Database system
 ## Learning 
